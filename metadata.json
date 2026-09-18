@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Suraksha Vyapar",
+  "description": "Suraksha Vyapar: Micro-entrepreneur security and business empowerment platform featuring smart UPI QR generation, real-time fraud telemetry with instant buzzing alarm alerts, multilingual scam warnings (English, Hindi, Telugu), Business Blueprints, and government grant matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
